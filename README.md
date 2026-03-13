@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 김지윤입니다
 
 <!--
 **jiyoon-00/jiyoon-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
